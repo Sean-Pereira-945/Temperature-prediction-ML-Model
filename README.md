@@ -37,5 +37,3 @@ Check out the performance metrics and see which model is the best! 🥇
 ## 🤝 Contributing
 Feel free to contribute! Fork and PR! 🔄
 
-## 📜 License
-MIT License 📝
